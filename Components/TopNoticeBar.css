@@ -1,0 +1,18 @@
+.top-notice-bar {
+  width: 100%;
+  background: #f5f3fa;
+  color: #333;
+  font-size: 0.95rem;
+  padding: 0.25rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+.connect-domain {
+  color: #a259e6;
+  text-decoration: underline;
+  margin-left: 0.5rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+} 
